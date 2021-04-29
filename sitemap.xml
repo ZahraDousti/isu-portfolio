@@ -1,7 +1,7 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://domain.com/</loc>
+<loc>https://domain.com/</loc xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2021-02-18</lastmod>
 </url>
 <urlset>
