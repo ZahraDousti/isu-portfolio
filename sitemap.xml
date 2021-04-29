@@ -1,8 +1,6 @@
-<urlset xmln="http://sitemaps.zahradousti.github.io/isu-portfolio/sitemap.xml">
+<urlset>
 <url>
   <loc>http://domain.com/</loc>
-<lastmod>2021-02-18</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
+<lastmod>2021-02-18</lastmod> 
 </url>
 <urlset>
